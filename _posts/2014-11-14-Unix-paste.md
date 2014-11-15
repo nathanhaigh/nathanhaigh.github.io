@@ -14,7 +14,7 @@ work and what programming languages people knew and currently use. To paraphrase
 
 As I went on, I mentioned my use of the Unix `paste` command. Both [Dan Huson](http://ab.inf.uni-tuebingen.de/people/huson/) and
 [Stephan Schiffels](https://twitter.com/stschiff) hadn't really fully understood the awsomeness of `paste` and thought it was pretty cool and suggested I blogged about it. So
-here I am writing my first blog post in my new blog "Gluten for Punishment: A Bioinformaticians Blog".
+here I am writing my first blog post in my new blog "Gluten for Punishment: A Wheat Bioinformaticians Blog".
 
 ## Overview
 
