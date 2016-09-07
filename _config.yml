@@ -115,5 +115,6 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
 # How many articles do you wish to appear on the front page:
-paginate: 3
-gems: [jekyll-paginate, pygments.rb, rdiscount, jekyll-gist]
+#paginate: 3
+#gems: [jekyll-paginate]
+gems: [pygments.rb, rdiscount, jekyll-gist]
