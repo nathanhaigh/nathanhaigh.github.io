@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gluten for Punishment: A Wheat Bioinformaticians Blog
+title: Gluten for Punishment&#58; A Wheat Bioinformaticians Blog
 tagline: 
 ---
 {% include JB/setup %}
