@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
-tagline: me and this blog
+title: About Me
+tagline:
 ---
 {% include JB/setup %}
 
-I'm a bioinformatician working at the Australian Centre for Plant Functional Genomics ([ACPFG](http://www.acpfg.com.au)). My work revolves around studying cereals with the aim of developing more drought and salt tolerant cultivars.
+I work as a Research Fellow in Bioinformatics at the Australian Centre for Plant Functional Genomics
+([ACPFG](http://www.acpfg.com.au/)) in Adelaide, Australia. Much of my work is covered by IP, so I
+have to be somewhat careful with what I post.
 
 The contents of this blog are my own views and opinions.
-
